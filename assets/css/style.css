@@ -1,0 +1,36 @@
+.social{
+    padding: 25px;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+
+}
+.container{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+.p-15{
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+}
+.alinhaCard{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    text-align: center;
+    padding: 25px;
+}
+#a1{
+    padding: 15;
+    display: flex;
+    flex-flow: row;
+    justify-items: left;
+}
+#a2{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
